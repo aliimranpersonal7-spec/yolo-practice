@@ -1,3 +1,1 @@
-# YOLO Practice
-
-My GitHub achievements practice repository.
+Practicing my first YOLO pull request.
